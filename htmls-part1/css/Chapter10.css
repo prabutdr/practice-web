@@ -101,3 +101,7 @@ input.text {
 input.text:focus {
     color: #665544;
 }
+
+li {
+    list-style-type: square;
+}
