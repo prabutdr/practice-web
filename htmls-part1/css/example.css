@@ -1,0 +1,13 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(185, 179, 175)
+}
+h1 {
+    color: white;
+}
+h2 {
+    color: #ee3e80;
+}
+p {
+    color: #665544;
+}

@@ -1,0 +1,103 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+i {
+    color: green;
+}
+
+i {
+    color: red;
+}
+
+li {
+    line-height: 2em;
+    text-align: center;
+}
+
+b {
+    color: pink;
+}
+
+p b {
+    color: blue;
+    font-size: 50px;
+    font-weight: bolder;
+    font-style: oblique;
+    text-transform: uppercase;
+    text-decoration: blink;
+    letter-spacing: .2em;
+    word-spacing: 2em;
+    text-shadow: 2px 2px 7px #111111;
+}
+
+p#intro {
+    font-size: 200%;
+}
+
+p#intro:first-letter {
+    font-size: 200%;
+}
+
+p {
+    font-size: 75%;
+    background-color: hsla(25, 100%, 50%, 0.2);
+    text-indent: 20px;
+}
+
+body {
+    color: #665544;
+    padding: 20px;
+}
+
+.page {
+    border: 3px solid #0000FF;
+    background-color: #efefef;
+    padding: inherit;
+    opacity: 0.5;
+    vertical-align: middle;
+}
+
+a:link {
+    color: deeppink;
+    text-decoration: none;
+}
+
+a:visited {
+    color: black;
+}
+
+a:hover {
+    color: deeppink;
+    text-decoration: underline;
+}
+
+a:active {
+    color: darkcyan;
+}
+
+input {
+    padding: 6px 12px 6px 12px;
+    border: 1px solid #665544;
+    color: #ffffff;
+}
+
+input.submit:hover {
+    background-color: #665544;
+}
+
+input.submit:active {
+    background-color: chocolate;
+}
+
+input.text {
+    color: #cccccc;
+}
+
+input.text:focus {
+    color: #665544;
+}
