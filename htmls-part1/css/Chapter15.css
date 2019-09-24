@@ -1,0 +1,38 @@
+body {
+    width: 800px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #665544;
+}
+
+h1 {
+    position: fixed;
+    top: 0px;
+    padding: 10px;
+    margin: 0px;
+    width: 100%;
+    background-color: #ec9393;
+    z-index: 10;
+}
+
+p {
+    width: 500px;
+}
+
+p.example {
+    position: relative;
+    top: 100px;
+    left: 100px;
+    margin: 100px;
+}
+
+blockquote {
+    float: right;
+    width: 305px;
+    font-size: 130%;
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 0px 0px 10px 10px;
+    padding: 10px;
+    border-top: 1px solid #665544;
+    border-bottom: 1px solid #665544;
+}
