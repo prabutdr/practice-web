@@ -15,14 +15,8 @@ h1 {
 }
 
 p {
-    width: 500px;
-}
-
-p.example {
-    position: relative;
-    top: 100px;
-    left: 100px;
-    margin: 100px;
+    width: 200px;
+    float: left;
 }
 
 blockquote {
